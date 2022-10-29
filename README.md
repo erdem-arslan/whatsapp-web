@@ -1,6 +1,6 @@
 # LinkedIn-Clone
 
-Whatsapp Web Clone
+WhatsApp Web Clone
 
 
 ## Live Demo
