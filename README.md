@@ -5,7 +5,7 @@ Whatsapp Web Clone
 
 ## Live Demo
 
-[Live Demo] https://erdemarslan.net/examples/whatsapp-web/
+[Live Demo] https://erdemarslan.net/sample-projects/whatsapp-web/
 
 
 ## Used Technologies 
